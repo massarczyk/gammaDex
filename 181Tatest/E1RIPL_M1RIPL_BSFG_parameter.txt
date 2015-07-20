@@ -1,0 +1,19 @@
+#1 - ng or gg :1
+#2 - Emax or Sn+En :8000
+#3 - Binning :100
+#4 - A :181
+#5 - Z :73
+#6 - ground state spin :3.5
+#7 - ground state parity :1
+#10 - CT or BSFG :1
+#11 - T or a (MeV) :18.72
+#12 - E0 or E1 (MeV) :-0.26
+#13 - Pairing energy (MeV) :0.022
+#14 - E1 Strength Model :1
+#15 - M1 Strength Model :1
+#18 - width1 (MeV):2.55
+#19 - EMax1 (MeV) :12.32
+#20 - csMax1 (mb) :252
+#21 - width2 (MeV):4.54
+#22 - EMax2 (MeV) :15.22
+#23 - csMax2 (mb) :332.4

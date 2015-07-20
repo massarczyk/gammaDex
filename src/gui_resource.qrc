@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/Buttons">
+        <file>Buttons/Yellow.png</file>
+        <file>Buttons/Blue.png</file>
+        <file>Buttons/FastFoward.png</file>
+        <file>Buttons/FastReverse.png</file>
+        <file>Buttons/Green.png</file>
+        <file>Buttons/Halt.png</file>
+        <file>Buttons/Pause.png</file>
+        <file>Buttons/Play.png</file>
+        <file>Buttons/Power.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>Buttons/HZDR.png</file>
+        <file>Buttons/HZDR_Icon.png</file>
+    </qresource>
+    <qresource prefix="/AnalysisIcons">
+        <file>ToolBar/DPSD.png</file>
+        <file>ToolBar/PHA.png</file>
+        <file>ToolBar/ToF.png</file>
+    </qresource>
+    <qresource prefix="/ToolBarIcons">
+        <file>ToolBar/AddfromCDButton.png</file>
+        <file>ToolBar/CloseButton.png</file>
+        <file>ToolBar/InfoTagsButton.png</file>
+        <file>ToolBar/OpenButton.png</file>
+        <file>ToolBar/SaveasButton.png</file>
+        <file>ToolBar/SaveButton.png</file>
+        <file>ToolBar/Symbol-zip.png</file>
+        <file>ToolBar/Stoppuhren/Stoppuhr3.png</file>
+        <file>ToolBar/Stoppuhren/StoppUhr.png</file>
+        <file>ToolBar/Stoppuhren/TUhr1.png</file>
+    </qresource>
+</RCC>
